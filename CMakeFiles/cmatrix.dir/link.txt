@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/cmatrix.dir/matrixMult/main.cpp.o CMakeFiles/cmatrix.dir/matrixMult/func.cpp.o -o cmatrix 
